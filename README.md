@@ -14,14 +14,12 @@
 </h3>
 
 
-<img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
 
-<p align="left">
 Experienced Machine Learning Engineer with a strong background in data analysis,
 feature engineering, and **building end-to-end ML pipelines**.
 
 Passionate about solving real-world problems using data-driven approaches.
-</p>
+
 
 
 ---
