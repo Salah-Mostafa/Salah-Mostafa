@@ -5,13 +5,13 @@
 
 # <h1 align="center">Salah Mostafa</h1>
 
-### <h2 align="center">Machine Learning Engineer | Data Scientist | Python Developer</h2>
+<p align="center">
+### Machine Learning Engineer | Data Scientist | Python Developer
+</p>
 
 Experienced Machine Learning Engineer with strong background in data analysis,  
 modeling, and end-to-end ML pipelines. Passionate about solving real-world problems  
 using data-driven approaches.
-![Developer](https://github.com/user-attachments/assets/d6ae40fc-54c9-486e-99c8-3d0d495d7b11)
-
 
 ---
 
