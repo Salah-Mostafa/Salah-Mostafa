@@ -19,7 +19,7 @@ Passionate about solving real-world problems using data-driven approaches.
 ---
 
 
-## 🚀 What Build
+## 🚀 What I Build
 - Build end-to-end **Machine Learning pipelines**        
 - Perform **EDA, Feature Engineering & Data Cleaning**                            
 - Train & evaluate **predictive models**                                                    
