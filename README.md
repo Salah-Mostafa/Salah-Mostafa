@@ -19,9 +19,9 @@ Passionate about solving real-world problems using data-driven approaches.
 ---
 
 
-<table width="100%" style="border:none;">
+<table width="100%" style="border:none; table-layout: fixed;">
 <tr>
-<td style="vertical-align:top; padding-right:250px;">
+<td style="vertical-align:top; padding-right:20px; width:70%; border:none;">
 
 ## 🚀 What I Do
 - Build end-to-end **Machine Learning pipelines**  
@@ -31,13 +31,14 @@ Passionate about solving real-world problems using data-driven approaches.
 - Handle **Imbalanced Data**
 
 </td>
-<td style="vertical-align:top; text-align:right; border:none;">
+<td style="vertical-align:top; text-align:right; width:30%; border:none;">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
 
 </td>
 </tr>
 </table>
+
 
 
 
