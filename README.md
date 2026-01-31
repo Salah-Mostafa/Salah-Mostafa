@@ -3,7 +3,7 @@
 ![Untitled design](https://github.com/user-attachments/assets/d0c5e91b-528c-4034-99e2-5886f5c45b61)
 
 
-#                 Salah Mostafa
+# <h1 align="center">Salah Mostafa</h1>
 
 ### Machine Learning Engineer | Data Scientist | Python Developer
 
