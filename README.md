@@ -5,7 +5,7 @@
 
 # <h2 align="center">Salah Mostafa</h2>
 
-### Machine Learning Engineer | Data Scientist | Python Developer
+### <h2 align="center">Machine Learning Engineer | Data Scientist | Python Developer</h2>
 
 Experienced Machine Learning Engineer with strong background in data analysis,  
 modeling, and end-to-end ML pipelines. Passionate about solving real-world problems  
