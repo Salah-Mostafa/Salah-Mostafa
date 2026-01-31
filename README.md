@@ -3,39 +3,40 @@
 ![Banner](https://github.com/user-attachments/assets/d0c5e91b-528c-4034-99e2-5886f5c45b61)
 
 
-# <h1 align="center">Salah Mostafa</h1>
+<h1 align="center">Salah Mostafa</h1>
+
 
 <h3 align="center">
     Machine Learning Engineer | Data Scientist | Python Developer
 </h3>
 
-Experienced Machine Learning Engineer with strong background in data analysis,  
-modeling, and end-to-end ML pipelines. Passionate about solving real-world problems  
-using data-driven approaches.
+Experienced Machine Learning Engineer with a strong background in data analysis,
+feature engineering, and building end-to-end ML pipelines.
+Passionate about solving real-world problems using data-driven approaches.
+
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Build
 - Build end-to-end **Machine Learning pipelines**
 - Perform **EDA, Feature Engineering & Data Cleaning**
-- Train & evaluate **Classification & Regression models**
-- Handle **Imbalanced Data (SMOTE, class weighting)**
-- Participate in **Kaggle competitions**
-- Deploy models using **Python & FastAPI**
+- Train & evaluate **predictive models**
+- Deploy models using **Python SDKs & FastAPI**
+- Handle **Imbalanced Data**
 
 ---
 
 ## 🏆 Highlights & Impact
-- Achieved **0.69+ score** in Kaggle Diabetes Classification
-- Improved model performance using **robust scaling & encoding**
+- Achieved **87.2% recall** in Credit Score Classification
+- Improved model performance using **hyperparameter tuning**
+- Improved model performance using **scaling, encoding, and normalization**
 - Built reusable ML pipelines with **Scikit-learn**
 - Strong experience with real, noisy datasets
 
 ---
 
 ## 💼 Currently
-- Machine Learning Engineer
-- Working on **Classification & Predictive Modeling**
+- Working on **Predictive Modeling & GenAI**
 - Improving skills in **MLOps & Model Optimization**
 
 ---
@@ -49,32 +50,28 @@ using data-driven approaches.
 ### Machine Learning
 - Scikit-learn
 - Feature Engineering
-- Model Evaluation (ROC, F1, Accuracy)
+- Model Evaluation (ROC, Recall, Accuracy)
 
 ### Data & Visualization
-- Matplotlib, Seaborn
-- Power BI, Tableau
+- Matplotlib, Seaborn, Plotly
+- Power BI
 - SQL
-
-### Tools
-- Git & GitHub
-- Jupyter Notebook
-- Kaggle
 
 ---
 
 ## 📊 Projects
-- 🩺 **Diabetes Classification** (Kaggle)
+- 🎯 **Parameters Optimization**
 - 💳 **Credit Score Prediction**
-- 👥 **Customer Segmentation**
+- 🚗 **Car Price Prediction**
+- 🩺 **Diabetes Classification** 
 - 📈 **EDA & Visualization Projects**
 
 ---
 
 ## 📫 Contact Me
-- LinkedIn: https://linkedin.com/in/your-link
-- Kaggle: https://kaggle.com/your-name
-- Email: your@email.com
+- LinkedIn: [www.linkedin.com/in/salah-mostafa](www.linkedin.com/in/salah-mostafa)
+- Kaggle: [https://kaggle.com/your-name](https://www.kaggle.com/salahmostafaa)
+- Email: [salahmostafaa21@gmail.com](salahmostafaa21@gmail.com)
 
 ---
 
