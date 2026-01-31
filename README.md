@@ -1,3 +1,4 @@
+<img width="1280" height="720" alt="Banner" src="https://github.com/user-attachments/assets/b9a6db1b-dbd3-4d2a-9422-c729e85ac56d" />
 <!-- ===== Banner ===== -->
 <!-- Replace banner.png with your own image -->
 ![Banner](https://github.com/user-attachments/assets/d0c5e91b-528c-4034-99e2-5886f5c45b61)
