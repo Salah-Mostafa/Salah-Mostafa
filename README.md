@@ -19,20 +19,16 @@ Passionate about solving real-world problems using data-driven approaches.
 ---
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-  <div style="flex: 1; padding-right: 20px;">
-## 🚀 What I Do
-- Build end-to-end **Machine Learning pipelines**  
-- Perform **EDA, Feature Engineering & Data Cleaning**  
-- Train & evaluate **predictive models**  
-- Deploy models using **Python SDKs & FastAPI**  
-- Handle **Imbalanced Data**
+
+|🚀 What I Do                                             |     <img src="https://media0.giphy.com/                                            |
+|- Build end-to-end **Machine Learning pipelines**         |     media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzb         |
+|- Perform **EDA, Feature Engineering & Data Cleaning**    |     DZuNHRxdCZlcD12MV9pbn                                                          |
+|- Train & evaluate **predictive models**                  |     Rlcm5hbF9naWZfYnlfaWQmY3Q9Zw/                                                  |
+|- Deploy models using **Python SDKs & FastAPI**           |     66M6ZwJkTLYikvhrqZ                                                             |
+|- Handle **Imbalanced Data**                              |     /giphy.gif" width="200" />                                                     |
   </div>
 
-  <div style="flex-shrink: 0;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
-  </div>
-</div>
+ 
 
 
 
