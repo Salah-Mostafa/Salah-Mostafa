@@ -69,9 +69,9 @@ Passionate about solving real-world problems using data-driven approaches.
 ---
 
 ## 📫 Contact Me
-- LinkedIn: [www.linkedin.com/in/salah-mostafa](www.linkedin.com/in/salah-mostafa)
+- LinkedIn: [https://www.linkedin.com/in/salah-mostafa](https://www.linkedin.com/in/salah-mostafa)
 - Kaggle: [https://kaggle.com/your-name](https://www.kaggle.com/salahmostafaa)
-- Email: [salahmostafaa21@gmail.com](salahmostafaa21@gmail.com)
+- Email: [https://salahmostafaa21@gmail.com](https://salahmostafaa21@gmail.com)
 
 ---
 
