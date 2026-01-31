@@ -18,25 +18,24 @@ Passionate about solving real-world problems using data-driven approaches.
 
 ---
 
-<table width="100%" border="0" style="border:none;">
-<tr>
-<td style="vertical-align:top; padding-right:20px;">
-
-## 🚀 What I Do
-- Build high-scale **scraping pipelines** (5,000+ websites across e-commerce, real estate, gov & social platforms)
-- Design **Playwright / Scrapy / Selenium** automation with proxy rotation & anti-bot bypass
-- Develop **Python SDKs & reusable automation frameworks**
-- Build **FastAPI** backends with async processing & task queues
-- Integrate **LLMs, Whisper, Azure Speech, OpenAI** for transcription & AI workflows
-
-</td>
-<td style="vertical-align:top; text-align:right; border:none;">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="left" style="border:0; padding:0;">
+      ## 🚀 What I Build
+      <ul>
+        <li>Build end-to-end <strong>Machine Learning pipelines</strong></li>
+        <li>Perform <strong>EDA, Feature Engineering & Data Cleaning</strong></li>
+        <li>Train & evaluate <strong>predictive models</strong></li>
+        <li>Deploy models using <strong>Python SDKs & FastAPI</strong></li>
+        <li>Handle <strong>Imbalanced Data</strong></li>
+      </ul>
+    </td>
+    <td align="right" style="border:0; padding:0;">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
+    </td>
+  </tr>
 </table>
+
 
 ---
 
