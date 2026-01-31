@@ -19,9 +19,9 @@ Passionate about solving real-world problems using data-driven approaches.
 ---
 
 
-<table width="100%" border="0" style="border:none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border:none; margin:0; padding:0;">
 <tr>
-<td style="vertical-align:top; padding-right:20px;">
+<td style="vertical-align:top; padding-right:20px; border:none;">
 
 ## 🚀 What I Do
 - Build high-scale **scraping pipelines** (5,000+ websites across e-commerce, real estate, gov & social platforms)
