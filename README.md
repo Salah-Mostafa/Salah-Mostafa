@@ -18,12 +18,16 @@ Passionate about solving real-world problems using data-driven approaches.
 
 ---
 
-#|🚀 What I Build | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" /> |
-|---|---|
-| - Build end-to-end **Machine Learning pipelines** <br> - Perform **EDA, Feature Engineering & Data Cleaning** <br> - Train & evaluate **predictive models** <br> - Deploy models using **Python SDKs & FastAPI** <br> - Handle **Imbalanced Data** |  |
+<p float="right">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
+</p>
 
-
-
+## 🚀 What I Build
+- Build end-to-end **Machine Learning pipelines**  
+- Perform **EDA, Feature Engineering & Data Cleaning**  
+- Train & evaluate **predictive models**  
+- Deploy models using **Python SDKs & FastAPI**  
+- Handle **Imbalanced Data**  
 
 ---
 
