@@ -18,7 +18,8 @@ Passionate about solving real-world problems using data-driven approaches.
 
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; margin: 0; padding: 0;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
+  <!-- النص على الشمال -->
   <div style="flex: 1; padding-right: 20px;">
     ## 🚀 What I Build
     <ul>
@@ -29,10 +30,13 @@ Passionate about solving real-world problems using data-driven approaches.
       <li>Handle <strong>Imbalanced Data</strong></li>
     </ul>
   </div>
-  <div>
+
+  <!-- الصورة على اليمين -->
+  <div style="flex-shrink: 0;">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
   </div>
 </div>
+
 
 
 
