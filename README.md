@@ -21,7 +21,7 @@ Passionate about solving real-world problems using data-driven approaches.
 
 <table width="100%" style="border:none;">
 <tr>
-<td style="vertical-align:top; padding-right:20px;">
+<td style="vertical-align:top; padding-right:50px;">
 
 ## 🚀 What I Do
 - Build end-to-end **Machine Learning pipelines**  
