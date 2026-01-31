@@ -12,6 +12,7 @@
 
 Experienced Machine Learning Engineer with a strong background in data analysis,
 feature engineering, and building end-to-end ML pipelines.
+
 Passionate about solving real-world problems using data-driven approaches.
 
 
@@ -23,6 +24,8 @@ Passionate about solving real-world problems using data-driven approaches.
 - Train & evaluate **predictive models**
 - Deploy models using **Python SDKs & FastAPI**
 - Handle **Imbalanced Data**
+
+| <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="50" /> |
 
 ---
 
