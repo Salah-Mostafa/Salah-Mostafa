@@ -3,9 +3,9 @@
 ![Untitled design](https://github.com/user-attachments/assets/d0c5e91b-528c-4034-99e2-5886f5c45b61)
 
 
-# <h2 align="center">Salah Mostafa</h2>
+# <h1 align="center">Salah Mostafa</h1>
 
-### <h2 align="center">Machine Learning Engineer | Data Scientist | Python Developer</h1>
+### <h2 align="center">Machine Learning Engineer | Data Scientist | Python Developer</h2>
 
 Experienced Machine Learning Engineer with strong background in data analysis,  
 modeling, and end-to-end ML pipelines. Passionate about solving real-world problems  
