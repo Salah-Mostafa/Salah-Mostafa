@@ -1,6 +1,6 @@
 <!-- ===== Banner ===== -->
 <!-- Replace banner.png with your own image -->
-![Untitled design](https://github.com/user-attachments/assets/d0c5e91b-528c-4034-99e2-5886f5c45b61)
+![Banner](https://github.com/user-attachments/assets/d0c5e91b-528c-4034-99e2-5886f5c45b61)
 
 
 # <h1 align="center">Salah Mostafa</h1>
@@ -9,7 +9,8 @@
 
 Experienced Machine Learning Engineer with strong background in data analysis,  
 modeling, and end-to-end ML pipelines. Passionate about solving real-world problems  
-using data-driven approaches.![Developer](https://github.com/user-attachments/assets/d6ae40fc-54c9-486e-99c8-3d0d495d7b11)
+using data-driven approaches.
+![Developer](https://github.com/user-attachments/assets/d6ae40fc-54c9-486e-99c8-3d0d495d7b11)
 
 
 ---
