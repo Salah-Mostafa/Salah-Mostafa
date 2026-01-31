@@ -9,7 +9,8 @@
 
 Experienced Machine Learning Engineer with strong background in data analysis,  
 modeling, and end-to-end ML pipelines. Passionate about solving real-world problems  
-using data-driven approaches.
+using data-driven approaches.![Developer](https://github.com/user-attachments/assets/d6ae40fc-54c9-486e-99c8-3d0d495d7b11)
+
 
 ---
 
