@@ -19,9 +19,9 @@ Passionate about solving real-world problems using data-driven approaches.
 ---
 
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border:none; margin:0; padding:0;">
+<table width="100%" border=0 cellspacing="0" cellpadding="0" style="border-collapse: collapse; border:none; margin:0; padding:0;">
 <tr>
-<td style="vertical-align:top; padding-right:20px; border:0;">
+<td style="vertical-align:top; padding-right:20px; border:none;">
 
 ## 🚀 What I Do
 - Build high-scale **scraping pipelines** (5,000+ websites across e-commerce, real estate, gov & social platforms)
@@ -31,7 +31,7 @@ Passionate about solving real-world problems using data-driven approaches.
 - Integrate **LLMs, Whisper, Azure Speech, OpenAI** for transcription & AI workflows
 
 </td>
-<td style="vertical-align:top; text-align:right; border:0;">
+<td style="vertical-align:top; text-align:right; border:none;">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
 
