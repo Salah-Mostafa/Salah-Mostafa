@@ -19,7 +19,7 @@ Passionate about solving real-world problems using data-driven approaches.
 ---
 
 
-<table width="100%" border="0" style="border:none;">
+<table width="100%" style="border:none;">
 <tr>
 <td style="vertical-align:top; padding-right:20px;">
 
