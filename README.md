@@ -1,6 +1,6 @@
 <!-- ===== Banner ===== -->
 <!-- Replace banner.png with your own image -->
-![Banner](Untitled design.gif)![Untitled design](https://github.com/user-attachments/assets/d0c5e91b-528c-4034-99e2-5886f5c45b61)
+![Untitled design](https://github.com/user-attachments/assets/d0c5e91b-528c-4034-99e2-5886f5c45b61)
 
 
 # 👋 Hi, I'm Salah Mostafa
