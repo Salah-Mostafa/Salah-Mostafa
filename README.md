@@ -73,9 +73,14 @@ Passionate about solving real-world problems using data-driven approaches.
 - Kaggle: [https://kaggle.com/your-name](https://www.kaggle.com/salahmostafaa)
 - Email: [https://salahmostafaa21@gmail.com](https://salahmostafaa21@gmail.com)
 
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SalahMostafa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salah-mostafa)
+[![Kaggle](https://img.shields.io/badge/Kaggle-SalahMostafa-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/salahmostafaa)
+[![Email](https://img.shields.io/badge/Email-salahmostafaa21@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:salahmostafaa21@gmail.com)
+
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark) |
+|---|---||
