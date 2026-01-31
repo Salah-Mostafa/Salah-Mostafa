@@ -6,7 +6,7 @@
 # <h1 align="center">Salah Mostafa</h1>
 
 <p align="center">
-### Machine Learning Engineer | Data Scientist | Python Developer
+    Machine Learning Engineer | Data Scientist | Python Developer
 </p>
 
 Experienced Machine Learning Engineer with strong background in data analysis,  
