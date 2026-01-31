@@ -71,7 +71,7 @@ Passionate about solving real-world problems using data-driven approaches.
 ## 🌐 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SalahMostafa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salah-mostafa)
 [![Kaggle](https://img.shields.io/badge/Kaggle-SalahMostafa-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/salahmostafaa)
-[![Email](https://img.shields.io/badge/Email-salahmostafaa21@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:salahmostafaa21@gmail.com)
+[![Email](style=for-the-badge&logo=gmail)](mailto:salahmostafaa21@gmail.com)
 
 
 ---
