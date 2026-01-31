@@ -1,6 +1,7 @@
 
 <!-- Replace banner.png with your own image -->
-![Banner](https://github.com/user-attachments/assets/d0c5e91b-528c-4034-99e2-5886f5c45b61)
+![banner2](https://github.com/user-attachments/assets/cbbdfb12-fb53-4c4e-8554-4475567ef518)
+
 
 
 <h1 align="center">Salah Mostafa</h1>
