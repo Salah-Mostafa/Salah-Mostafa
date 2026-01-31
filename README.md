@@ -18,24 +18,24 @@ Passionate about solving real-world problems using data-driven approaches.
 
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
-  <!-- النص على الشمال -->
-  <div style="flex: 1; padding-right: 20px;">
-    ## 🚀 What I Build
-    <ul>
-      <li>Build end-to-end <strong>Machine Learning pipelines</strong></li>
-      <li>Perform <strong>EDA, Feature Engineering & Data Cleaning</strong></li>
-      <li>Train & evaluate <strong>predictive models</strong></li>
-      <li>Deploy models using <strong>Python SDKs & FastAPI</strong></li>
-      <li>Handle <strong>Imbalanced Data</strong></li>
-    </ul>
-  </div>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 70%; vertical-align: top; padding: 0;">
+      ## 🚀 What I Build
+      <ul>
+        <li>Build end-to-end <strong>Machine Learning pipelines</strong></li>
+        <li>Perform <strong>EDA, Feature Engineering & Data Cleaning</strong></li>
+        <li>Train & evaluate <strong>predictive models</strong></li>
+        <li>Deploy models using <strong>Python SDKs & FastAPI</strong></li>
+        <li>Handle <strong>Imbalanced Data</strong></li>
+      </ul>
+    </td>
+    <td style="width: 30%; padding: 0; text-align: right; vertical-align: top;">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
-  <!-- الصورة على اليمين -->
-  <div style="flex-shrink: 0;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBxanF4anVuc29qZG50MG1rZXpzajRweDE0NG43eWtzbDZuNHRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
-  </div>
-</div>
 
 
 
