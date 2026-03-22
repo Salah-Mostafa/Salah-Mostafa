@@ -10,7 +10,7 @@
 
 
 <h3 align="center">
-    Machine Learning Engineer | Data Scientist | Python Developer
+    Machine Learning Engineer | Data Scientist | Python Developer | Web Scraper
 </h3>
 
 
@@ -18,7 +18,7 @@
 Experienced Machine Learning Engineer with a strong background in data analysis,
 feature engineering, and **building end-to-end ML pipelines**.
 
-Passionate about solving real-world problems using data-driven approaches.
+Passionate about solving real-world problems using **data-driven approaches** and **automated data collection**.
 
 
 
