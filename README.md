@@ -30,7 +30,8 @@ Passionate about solving real-world problems using **data-driven approaches** an
 - Perform **EDA, Feature Engineering & Data Cleaning**                            
 - Train & evaluate **predictive models**                                                    
 - Deploy models using **Python SDKs & FastAPI**                                                                  
-- Handle **Imbalanced Data**                                                   
+- Handle **Imbalanced Data**
+- **Extract and collect data from websites** using Python (Selenium, BeautifulSoup)                                                   
 
 ---
 
