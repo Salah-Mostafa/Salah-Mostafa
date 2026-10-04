@@ -14,10 +14,9 @@
 </h3>
 
 
+<br>
 
-<p align="center"> Hands-on experience in Machine Learning, data analysis, feature engineering, and building end-to-end ML pipelines. </p>
-<p align="center"> Building data-driven and intelligent systems with Python, Machine Learning, Deep Learning, and Computer Vision. </p>
-
+<div align="center"> Hands-on experience in Machine Learning, data analysis, feature engineering, and <strong>end-to-end ML pipelines</strong>.<br> Building data-driven and intelligent systems with Python, Machine Learning, Deep Learning, and <strong>Computer Vision</strong>. </div>
 ---
 
 
