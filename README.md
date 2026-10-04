@@ -10,17 +10,13 @@
 
 
 <h3 align="center">
-    Machine Learning Engineer | Data Scientist | Python Developer | Web Scraper
+    Machine Learning | Deep Learning | Computer Vision | Mechatronics Engineering
 </h3>
 
 
 
-Experienced Machine Learning Engineer with a strong background in data analysis,
-feature engineering, and **building end-to-end ML pipelines**.
-
-Passionate about solving real-world problems using **data-driven approaches** and **automated data collection**.
-
-
+<p align="center"> Hands-on experience in Machine Learning, data analysis, feature engineering, and building end-to-end ML pipelines. </p>
+<p align="center"> Building data-driven and intelligent systems with Python, Machine Learning, Deep Learning, and Computer Vision. </p>
 
 ---
 
@@ -82,8 +78,7 @@ Passionate about solving real-world problems using **data-driven approaches** an
 [![Kaggle](https://img.shields.io/badge/Kaggle-SalahMostafa-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/salahmostafaa)
 [![Email](https://img.shields.io/badge/Email-salahmostafaa21@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:salahmostafaa21@gmail.com)
 
-
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark)
