@@ -82,9 +82,11 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="650" src="https://github-readme-stats.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark" />
+  <img width="550" src="https://github-readme-stats.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark" />
 </p>
-
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark" />
+  <img width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=Salah-Mostafa&theme=dark" />
+</p>
+<p align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark" />
 </p>
