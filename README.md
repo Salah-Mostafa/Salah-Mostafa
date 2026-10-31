@@ -86,14 +86,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark" />
+  <img width="500" src="https://github-stats-extended.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img width="500" src="https://streak-stats.demolab.com?user=Salah-Mostafa&theme=dark" />
+  <img width="500" src="https://streak-stats.demolab.com/?user=Salah-Mostafa&theme=dark&ring=00C853&fire=00C853" />
 </p>
 
 <p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark" />
+  <img width="350" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark" />
 </p>
-
