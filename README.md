@@ -24,10 +24,12 @@
 ## 🚀 What I Build
 - Build end-to-end **Machine Learning pipelines**        
 - Perform **EDA, Feature Engineering & Data Cleaning**                            
-- Train & evaluate **predictive models**                                                    
-- Deploy models using **Python SDKs & FastAPI**                                                                  
-- Handle **Imbalanced Data**
-- **Extract and collect data from websites** using Python (Selenium, BeautifulSoup)                                                   
+- Train, evaluate, and optimize **Machine Learning models**                                                  
+- Deploy models using **Python SDKs & FastAPI**
+- Build **Deep Learning models** using **TensorFlow/Keras** and **PyTorch**                                                              
+- Work with **imbalanced datasets** and model evaluation metrics
+- Develop **Computer Vision models** using CNNs and image processing techniques
+- Collect and process real-world data using **Python web scraping** (Selenium, BeautifulSoup)                                                   
 
 ---
 
@@ -80,13 +82,18 @@
 
 ---
 
+
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img width="550" src="https://github-readme-stats.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark" />
 </p>
+
 <p align="center">
-  <img width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=Salah-Mostafa&theme=dark" />
+  <img width="500" src="https://streak-stats.demolab.com?user=Salah-Mostafa&theme=dark" />
 </p>
+
 <p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark" />
 </p>
+
