@@ -1,89 +1,80 @@
-
-<!-- Replace banner.png with your own image -->
-![gift](https://github.com/user-attachments/assets/b76957c0-4793-4834-8e40-16586b1b3db9)
-
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b76957c0-4793-4834-8e40-16586b1b3db9" width="1000" alt="banner" />
+</p>
 
 <h1 align="center">Salah Mostafa</h1>
 
-
 <h3 align="center">
-    Machine Learning | Deep Learning | Computer Vision | Mechatronics Engineering
+  Machine Learning Engineer | Deep Learning | Computer Vision | Mechatronics Engineering
 </h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/salah-mostafa">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.kaggle.com/salahmostafaa">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-orange?logo=kaggle&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:salahmostafaa21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-<br>
-
-<div align="center"> Hands-on experience in Machine Learning, data analysis, feature engineering, and <strong>end-to-end ML pipelines</strong>.<br> Building data-driven and intelligent systems with Python, Machine Learning, Deep Learning, and <strong>Computer Vision</strong>. </div>
-
----
+## About Me
+I am a machine learning and computer vision engineer focused on building data-driven solutions, predictive models, and intelligent systems. I enjoy working on end-to-end ML pipelines, feature engineering, model optimization, and deep learning applications with real-world datasets.
 
 
-## 🚀 What I Build
-- Build end-to-end **Machine Learning pipelines**        
-- Perform **EDA, Feature Engineering & Data Cleaning**                            
-- Train, evaluate, and optimize **Machine Learning models**                                                  
-- Deploy models using **Python SDKs & FastAPI**
-- Build **Deep Learning models** using **TensorFlow/Keras** and **PyTorch**                                                              
-- Work with **imbalanced datasets** and model evaluation metrics
-- Develop **Computer Vision models** using CNNs and image processing techniques
-- Collect and process real-world data using **Python web scraping** (Selenium, BeautifulSoup)                                                   
+## What I Build
+- End-to-end machine learning pipelines
+- Data cleaning, EDA, and feature engineering
+- Classical ML and deep learning models
+- Model evaluation, tuning, and optimization
+- Computer vision projects using CNNs and image processing
+- Real-world data processing and analytics
 
----
-
-## 🏆 Highlights & Impact
-- Achieved **87.2% recall** in Credit Score Classification
-- Improved model performance using **hyperparameter tuning**
-- Improved model performance using **scaling, encoding, and normalization**
-- Built reusable ML pipelines with **Scikit-learn**
-- Strong experience with real, noisy datasets
-
----
-
-## 💼 Currently
-- Working on **Predictive Modeling & GenAI**
-- Improving skills in **MLOps & Model Optimization**
-
----
-
-## 🧠 Tech Stack
-
-### Core
-- Python, OOP, Data Structures
-- NumPy, Pandas
-
+## Core Skills
 ### Machine Learning
+- Python
+- NumPy
+- Pandas
 - Scikit-learn
 - Feature Engineering
-- Model Evaluation (ROC, Recall, Accuracy)
+- Model Evaluation
+- Hyperparameter Tuning
+
+### Deep Learning
+- TensorFlow / Keras
+- PyTorch
+- CNNs
+- Computer Vision
 
 ### Data & Visualization
-- Matplotlib, Seaborn, Plotly
-- Power BI
+- Matplotlib
+- Seaborn
+- Plotly
 - SQL
+- Power BI
+
+## Featured Projects
+- 🎯 Parameter Optimization
+- 💳 Credit Score Prediction
+- 🚗 Car Price Prediction
+- 🩺 Diabetes Classification
+- 📈 EDA and Visualization Projects
+
+## Highlights
+- Improved credit score classification recall to 87.2%
+- Built reusable ML pipelines for structured data workflows
+- Worked with noisy, imbalanced, and real-world data
+- Applied scaling, encoding, normalization, and tuning for model improvement
+
+## Currently
+- Working on predictive modeling and generative AI
+- Improving skills in MLOps and model optimization
 
 ---
 
-## 📊 Projects
-- 🎯 **Parameters Optimization**
-- 💳 **Credit Score Prediction**
-- 🚗 **Car Price Prediction**
-- 🩺 **Diabetes Classification** 
-- 📈 **EDA & Visualization Projects**
-
----
-
-## 🌐 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SalahMostafa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salah-mostafa)
-[![Kaggle](https://img.shields.io/badge/Kaggle-SalahMostafa-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/salahmostafaa)
-[![Email](https://img.shields.io/badge/Email-salahmostafaa21@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:salahmostafaa21@gmail.com)
-
----
-
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="500" src="https://github-stats-extended.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark" />
