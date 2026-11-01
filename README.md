@@ -9,14 +9,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salah-mostafa">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.kaggle.com/salahmostafaa">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-orange?logo=kaggle&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:salahmostafaa21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/salah-mostafa" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a><a href="https://www.kaggle.com/salahmostafaa" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-orange?logo=kaggle&logoColor=white&style=for-the-badge" />
+  </a><a href="mailto:salahmostafaa21@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
@@ -33,14 +31,43 @@ I am a machine learning and computer vision engineer focused on building data-dr
 - Real-world data processing and analytics
 
 ## Core Skills
-| Machine Learning | Deep Learning & Computer Vision | Data & Visualization |
-|---|---|---|
-| Python | TensorFlow / Keras | Matplotlib |
-| Scikit-learn | PyTorch | Seaborn |
-| Feature Engineering | OpenCV | Plotly |
-| Model Evaluation | CNNs | SQL |
-| Hyperparameter Tuning | Transfer Learning | Power BI |
-| MLOps Fundamentals | Object Detection | Pandas |
+<table width="100%">
+  <tr>
+    <th align="center">Machine Learning</th>
+    <th align="center">Deep Learning & Computer Vision</th>
+    <th align="center">Data & Visualization</th>
+  </tr>
+  <tr>
+    <td align="center">Python</td>
+    <td align="center">TensorFlow / Keras</td>
+    <td align="center">Matplotlib</td>
+  </tr>
+  <tr>
+    <td align="center">Scikit-learn</td>
+    <td align="center">PyTorch</td>
+    <td align="center">Seaborn</td>
+  </tr>
+  <tr>
+    <td align="center">Feature Engineering</td>
+    <td align="center">OpenCV</td>
+    <td align="center">Plotly</td>
+  </tr>
+  <tr>
+    <td align="center">Model Evaluation</td>
+    <td align="center">CNNs</td>
+    <td align="center">SQL</td>
+  </tr>
+  <tr>
+    <td align="center">Hyperparameter Tuning</td>
+    <td align="center">Transfer Learning</td>
+    <td align="center">Power BI</td>
+  </tr>
+  <tr>
+    <td align="center">MLOps Fundamentals</td>
+    <td align="center">Object Detection</td>
+    <td align="center">Pandas</td>
+  </tr>
+</table>
 
 ## Featured Projects
 - 🎯 Parameter Optimization
