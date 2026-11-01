@@ -37,7 +37,7 @@ I am a machine learning and computer vision engineer focused on building data-dr
 
 ## Core Skills
 
-<table width="1000">
+<table width="100%">
   <tr>
     <th width="33.33%" align="center">Machine Learning</th>
     <th width="33.33%" align="center">Deep Learning & Computer Vision</th>
