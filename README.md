@@ -34,10 +34,10 @@ I am a machine learning and computer vision engineer focused on building data-dr
 - Computer vision projects using CNNs and image processing
 - Real-world data processing and analytics
 
-## Core Skills
+
 ## Core Skills
 
-<table width="100%">
+<table width="1000">
   <tr>
     <th width="33.33%" align="center">Machine Learning</th>
     <th width="33.33%" align="center">Deep Learning & Computer Vision</th>
@@ -83,9 +83,6 @@ I am a machine learning and computer vision engineer focused on building data-dr
 - Improving skills in MLOps and model optimization
 
 ---
-
-## GitHub Stats
-
 ## GitHub Stats
 
 <table width="100%">
