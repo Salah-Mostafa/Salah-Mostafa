@@ -85,12 +85,12 @@ I am a machine learning and computer vision engineer focused on building data-dr
 ---
 ## GitHub Stats
 
-<table width="1000">
+<table width="100%">
   <tr>
-    <td width="70%" align="center">
+    <td width="50%" align="center">
       <img src="https://github-stats-extended.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark" width="100%" />
     </td>
-    <td width="30%" align="center">
+    <td width="50%" align="center">
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark" width="100%" />
     </td>
   </tr>
