@@ -9,16 +9,16 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salah-mostafa">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/salah-mostafa" style="text-decoration:none; display:inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" style="display:block;" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/salahmostafaa">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-orange?logo=kaggle&logoColor=white&style=for-the-badge" />
+  <a href="https://www.kaggle.com/salahmostafaa" style="text-decoration:none; display:inline-block;">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-orange?logo=kaggle&logoColor=white&style=for-the-badge" style="display:block;" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:salahmostafaa21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  <a href="mailto:salahmostafaa21@gmail.com" style="text-decoration:none; display:inline-block;">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white&style=for-the-badge" style="display:block;" />
   </a>
 </p>
 
@@ -101,14 +101,4 @@ I am a machine learning and computer vision engineer focused on building data-dr
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Salah-Mostafa&theme=dark&ring=00C853&fire=00C853" width="65%" />
-</p>
-
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Salah-Mostafa&theme=github-compact"
-    width="100%"
-  />
 </p>
