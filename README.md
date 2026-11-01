@@ -10,16 +10,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salah-mostafa" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" style="display:block;" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" style="display:block;" /></a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/salahmostafaa" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-orange?logo=kaggle&logoColor=white&style=for-the-badge" style="display:block;" />
-  </a>
+    <img src="https://img.shields.io/badge/Kaggle-Profile-orange?logo=kaggle&logoColor=white&style=for-the-badge" style="display:block;" /></a>
   &nbsp;&nbsp;
   <a href="mailto:salahmostafaa21@gmail.com" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white&style=for-the-badge" style="display:block;" />
-  </a>
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white&style=for-the-badge" style="display:block;" /></a>
 </p>
 
 ## About Me
