@@ -97,5 +97,5 @@ I am a machine learning and computer vision engineer focused on building data-dr
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Salah-Mostafa&theme=dark&ring=00C853&fire=00C853" width="65%" />
+  <img src="https://streak-stats.demolab.com/?user=Salah-Mostafa&theme=dark&ring=00C853&fire=00C853" width="55%" />
 </p>
