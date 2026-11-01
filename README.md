@@ -37,11 +37,11 @@ I am a machine learning and computer vision engineer focused on building data-dr
 
 ## Core Skills
 
-<table width="100%">
+<table width="1000">
   <tr>
-    <th width="33.33%" align="center">Machine Learning</th>
-    <th width="33.33%" align="center">Deep Learning & Computer Vision</th>
-    <th width="33.33%" align="center">Data & Visualization</th>
+    <th width="333.33" align="center">Machine Learning</th>
+    <th width="333.33" align="center">Deep Learning & Computer Vision</th>
+    <th width="333.33" align="center">Data & Visualization</th>
   </tr>
   <tr>
     <td align="center">Python · Scikit-learn</td>
@@ -85,12 +85,12 @@ I am a machine learning and computer vision engineer focused on building data-dr
 ---
 ## GitHub Stats
 
-<table width="100%">
+<table width="1000">
   <tr>
-    <td width="50%" align="center">
+    <td width="70%" align="center">
       <img src="https://github-stats-extended.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark" width="100%" />
     </td>
-    <td width="50%" align="center">
+    <td width="30%" align="center">
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark" width="100%" />
     </td>
   </tr>
