@@ -36,9 +36,9 @@ I am a machine learning and computer vision engineer focused on building data-dr
 
 <table width="1000">
   <tr>
-    <th width="333.33" align="center">Machine Learning</th>
-    <th width="333.33" align="center">Deep Learning & Computer Vision</th>
-    <th width="333.33" align="center">Data & Visualization</th>
+    <th width="333.33" align="center" height="65">Machine Learning</th>
+    <th width="333.33" align="center" height="65">Deep Learning & Computer Vision</th>
+    <th width="333.33" align="center" height="65">Data & Visualization</th>
   </tr>
   <tr>
     <td align="center">Python · Scikit-learn</td>
