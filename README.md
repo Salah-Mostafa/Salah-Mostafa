@@ -88,7 +88,7 @@ I am a machine learning and computer vision engineer focused on building data-dr
       <img src="https://github-stats-extended.vercel.app/api?username=Salah-Mostafa&show_icons=true&theme=dark" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Salah-Mostafa&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&hide=html" width="100%" />
     </td>
   </tr>
 </table>
